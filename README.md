@@ -24,4 +24,7 @@ It was my first backend project, helped me building skills of MERN stack.
 ## What next?
 I am currently working on it's Authentication part.
 
+## Credits
+Images belong to thier respective owner.
+
 
