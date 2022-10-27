@@ -16,7 +16,7 @@
 ![pic2](https://user-images.githubusercontent.com/78318301/176423977-86467da1-ecb9-4c8e-9d4b-e27cb0b33eb1.PNG)
 
 ## Technologies Used
-React, Redux, Node, Express, MongoDB
+React, Redux, Node, Express and MongoDB
 
 ## My Learnings
 It was my first backend project, helped me building skills of MERN stack.
