@@ -19,7 +19,7 @@
 React, Redux, Node, Express and MongoDB
 
 ## My Learnings
-It was my first backend project, helped me building skills of MERN stack.
+It was my first backend project and it helped me building skills of MERN stack.
 
 ## What next?
 I am currently working on it's Authentication part.
